@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Spider Agent",
+  "description": "Privacy-focused SQL agent powered by local LLMs to interpret natural language commands, generate SQL queries, and securely manage SQLite databases.",
+  "requestFeedback": false
+}
